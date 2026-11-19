@@ -708,13 +708,7 @@ The ledger is **append-only** and public per pool. A household sees every event 
 
 ---
 
-## 21. Team
-
-| Name | Role |
-|---|---|
-| *(add)* | *(add)* |
-
-## 22. References and acknowledgements
+## 21. References and acknowledgements
 
 - Research brief for Problem Statement 5.2 (provided to the team).
 - Almås, I. and Kjelsrud, A. *Rags and Riches: Why consumption patterns matter for inequality.* Non-homothetic demand (QUAIDS), quality elasticities, unit-value method.
